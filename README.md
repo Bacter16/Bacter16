@@ -20,13 +20,11 @@
 const developer = {
   name: "Cristian Bacter",
   location: "Romania",
-  role: "Full Stack Developer",
-  currentlyLearning: ["AWS", "NextJS", "GraphQL"],
-  askMeAbout: ["Web Dev", "Tech", "Photography", "Coffee"],
-  funFact: "I can solve a Rubik's cube in under 2 minutes!",
+  role: "Computer Science Student",
+  currentlyLearning: ["Computer Vision", "Raspberry pi 5", "Tencent/NCNN"],
   codingEnvironment: {
-    music: "Lo-fi beats",
-    beverage: "Cold brew coffee",
+    music: "Indie Rock",
+    beverage: "Cold coffee",
     editor: "VS Code",
     theme: "Dark mode everything"
   }
