@@ -21,7 +21,7 @@ const developer = {
   name: "Cristian Bacter",
   location: "Romania",
   role: "Computer Science Student",
-  currentlyWorkingOn: [ "Final Year Project, Bachelor Thesis" ]
+  currentlyWorkingOn: [ "Final Year Project, Bachelor Thesis" ],
   currentlyLearning: [ "Computer Vision", "Raspberry pi 5", "Tencent/NCNN" ],
   codingEnvironment: {
     music: "Indie Rock",
