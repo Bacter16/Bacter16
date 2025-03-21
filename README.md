@@ -18,7 +18,7 @@
 
 ```js
 const developer = {
-  name: "Cristian Bacter",
+  name: "Bacter Cristian",
   location: "Romania",
   role: "Computer Science Student",
   currentlyWorkingOn: [ "Final Year Project, Bachelor Thesis" ],
